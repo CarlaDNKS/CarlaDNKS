@@ -15,5 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 <img  alt="reactLogo" width="40px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp; <img  alt="JSLogo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp; <img  alt="HTMLLogo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="CSSLogo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="nodeJSLogo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /> &nbsp;&nbsp;&nbsp;&nbsp; <img alt="mongoDBLogo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 
+<h2> Statistics </h2>
+
+![CarlaDNKS' GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlaDNKS&show_icons=true&count_private=true&hide=prs&theme=dark&icon_color=FFD700&text_color=ffffff&bg_color=000000)
 
 
